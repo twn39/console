@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: weinan
- * Date: 2018/11/15
- * Time: 22:57
- */
+
 namespace App\Providers;
 
 use App\Commands\Hello;
